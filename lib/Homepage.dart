@@ -46,7 +46,7 @@ late Future<Album> futureAlbum;
     return MaterialApp(
       home: Scaffold(
          appBar: AppBar(
-           title: Text('fetch api'
+           title: Text('fetch jkapi'
 
 
              ),
